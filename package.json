@@ -14,6 +14,7 @@
   "author": "Nanci Newell",
   "license": "ISC",
   "devDependencies": {
+    "nodemon": "^2.0.13"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
