@@ -14,6 +14,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    min-width: 650px;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -29,6 +30,7 @@ h1, h2, h3, h4, h5, h6{
     padding: 2rem;
     display: flex;
     justify-content: space-between;
+    
 }
 
 .main-nav-ul{
@@ -61,7 +63,6 @@ h1, h2, h3, h4, h5, h6{
 .error{
 text-align: center;
 }
-/* * * * * * * * * * * * LINKS (GENERAL)* * * * * * * * * * */
 
 /* * * * * * * * * * * * MAIN * * * * * * * * * * */
 
@@ -82,7 +83,7 @@ main{
 footer{
     background-color: rgb(5,19,58);
     color: rgb(209,220,250);
-    width: 100vw;
+    
     padding: .5rem 2rem;
     display: flex;
 }
